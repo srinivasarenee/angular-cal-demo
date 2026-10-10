@@ -12,6 +12,6 @@ phases:
     commands:
     - ng build -c production
 artifacts:
-  base-directory: dist/angular-cal-demo
+  base-directory: dist/my-angular-project
   files:
   - '**/*'
